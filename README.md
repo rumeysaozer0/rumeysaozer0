@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rumeysaozer0
-- 👀 I’m interested in java, php, kotlin,react, project management,sap abap, html, css,bootstrap
+- 👀 I’m interested in java, php, kotlin,react, project management,sap abap, html, css,bootstrap, c
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me http://rumeysaozer.com/
